@@ -17,3 +17,8 @@ python server.py
 ```
 
 Open a browser and go to localhost:8080.
+
+## Note
+
+```
+You can see, our ChatBot replies aren’t perfect, but pretty good for a few minutes of work.
