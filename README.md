@@ -2,7 +2,7 @@
 
 Build a simple ChatBot with Python that uses Google Search as its brain. The app consists of a Python 3 server and a web interface.
 
-<img align="left" alt="Visual Studio Code" width="1080px" src="https://www.mii.co.id/-/media/20190203_call-blitz-chatbot-3dolphin/chatbot_feb2019.jpg?h=1424&w=2000&hash=8C8E1EE70D2384D52E54FF7626702076B2B08195" />
+<img align="left" alt="Visual Studio Code" width="980px" src="https://www.mii.co.id/-/media/20190203_call-blitz-chatbot-3dolphin/chatbot_feb2019.jpg?h=1424&w=2000&hash=8C8E1EE70D2384D52E54FF7626702076B2B08195" />
 
 # About
 
